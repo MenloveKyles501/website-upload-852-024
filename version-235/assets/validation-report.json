@@ -1,0 +1,50 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "html_pages_total": 2014,
+  "category_coverage": 2000,
+  "baidu_missing": [],
+  "image_files_included": [],
+  "category_counts": [
+    {
+      "name": "亚洲精选",
+      "slug": "asian-choice",
+      "count": 250
+    },
+    {
+      "name": "热门剧集",
+      "slug": "hot-drama",
+      "count": 250
+    },
+    {
+      "name": "电影片单",
+      "slug": "movie-collection",
+      "count": 250
+    },
+    {
+      "name": "悬疑动作",
+      "slug": "suspense-action",
+      "count": 250
+    },
+    {
+      "name": "爱情生活",
+      "slug": "romance-life",
+      "count": 250
+    },
+    {
+      "name": "环球影像",
+      "slug": "global-cinema",
+      "count": 250
+    },
+    {
+      "name": "经典回看",
+      "slug": "classic-memory",
+      "count": 250
+    },
+    {
+      "name": "持续更新",
+      "slug": "new-updates",
+      "count": 250
+    }
+  ]
+}
